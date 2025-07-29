@@ -32,7 +32,7 @@
         {
             "description": "",
             "hash": 4184808992,
-            "name": "",
+            "name": "NAUALLI / ADORED",
             "plugs": [
                 [
                     3250034553
@@ -55,7 +55,7 @@
         {
             "description": "",
             "hash": 4184808992,
-            "name": "",
+            "name": "NAUALLI / ADORED",
             "plugs": [
                 [
                     3250034553
@@ -78,7 +78,7 @@
         {
             "description": "MASTERWORK: RANGE",
             "hash": 3105930175,
-            "name": "",
+            "name": "NAUALLI / CHAIN OF COMMAND / GOD PVE",
             "plugs": [
                 [
                     839105230
@@ -95,14 +95,13 @@
             ],
             "tags": [
                 "GodPVE",
-                "GodPVP",
                 "Controller"
             ]
         },
         {
             "description": "",
             "hash": 616582330,
-            "name": "",
+            "name": "NAUALLI / CRY MUTINY / GOD PVE",
             "plugs": [
                 [
                     1478423395
@@ -115,11 +114,6 @@
                 ],
                 [
                     1546637391
-                ],
-                [
-                    744217850,
-                    4091460919,
-                    515704826
                 ]
             ],
             "tags": [
@@ -130,7 +124,7 @@
         {
             "description": "",
             "hash": 616582330,
-            "name": "",
+            "name": "NAUALLI / CRY MUTINY / GOD PVP",
             "plugs": [
                 [
                     1478423395
@@ -143,11 +137,29 @@
                 ],
                 [
                     4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MASTERWORK: RANGE",
+            "hash": 3105930175,
+            "name": "NAUALLI / CHAIN OF COMMAND / GOD PVP",
+            "plugs": [
+                [
+                    839105230
                 ],
                 [
-                    744217850,
-                    4091460919,
-                    515704826
+                    1561002382
+                ],
+                [
+                    11612903
+                ],
+                [
+                    3523296417
                 ]
             ],
             "tags": [
