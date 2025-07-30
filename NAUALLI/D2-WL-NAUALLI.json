@@ -599,7 +599,8 @@
             "tags": [
                 "GodPVE",
                 "GodPVP",
-                "Controller"
+                "Controller",
+                "Mouse"
             ]
         },
         {
@@ -654,7 +655,8 @@
             "tags": [
                 "GodPVE",
                 "GodPVP",
-                "Controller"
+                "Controller",
+                "Mouse"
             ]
         },
         {
@@ -682,7 +684,61 @@
             "tags": [
                 "GodPVE",
                 "GodPVP",
+                "Controller",
+                "Mouse"
+            ]
+        },
+        {
+            "description": "MW=RELOAD SPEED    ",
+            "hash": 3269398063,
+            "name": "LIGHT.GG / REFUSAL OF THE CALL / GOD PVE",
+            "plugs": [
+                [
+                    1263609309
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    923806249
+                ],
+                [
+                    31345821
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE",
                 "Controller"
+            ]
+        },
+        {
+            "description": "MW=RELOAD SPEED    ",
+            "hash": 3269398063,
+            "name": "NAHUALLI / REFUSAL OF THE CALL / APPRAISAL",
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    951095735
+                ],
+                [
+                    31345821
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller",
+                "Mouse"
             ]
         }
     ]

@@ -7,14 +7,14 @@ dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3454
 dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3846229553
 
 
-// Pre Astyanax IV - NAUALLI / PRE ASTYANAX IV / APPRAISE (god-pve,god-pvp,controller)
-//notes: MW=DRAW TIME     tags:god-pve,god-pvp,controller
+// Pre Astyanax IV - NAUALLI / PRE ASTYANAX IV / APPRAISE (god-pve,god-pvp,controller,mnk)
+//notes: MW=DRAW TIME     tags:god-pve,god-pvp,controller,mnk
 dimwishlist:item=471764396&perks=4067834857,3311977193,4293542123,2890807135,3454102905
 dimwishlist:item=471764396&perks=4067834857,3311977193,4293542123,2890807135,3846229553
 
 
-// Pre Astyanax IV - NAUALLI / PRE ASTYANAX IV / APPRAISE (god-pve,god-pvp,controller)
-//notes: MW=RELOAD SPEED     tags:god-pve,god-pvp,controller
+// Pre Astyanax IV - NAUALLI / PRE ASTYANAX IV / APPRAISE (god-pve,god-pvp,controller,mnk)
+//notes: MW=RELOAD SPEED     tags:god-pve,god-pvp,controller,mnk
 dimwishlist:item=471764396&perks=3768438372,16392701,3824105627,1089671869,3454102905
 dimwishlist:item=471764396&perks=3768438372,16392701,3824105627,1089671869,3846229553
 
@@ -46,8 +46,8 @@ dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,1546637391
 dimwishlist:item=616582330&perks=1478423395,332133599,3523296417,4082225868
 
 
-// Ahab Char - NAUALLI / AHAB CHAR / APPRAISE (god-pve,god-pvp,controller)
-//notes: MW=STABILITY     tags:god-pve,god-pvp,controller
+// Ahab Char - NAUALLI / AHAB CHAR / APPRAISE (god-pve,god-pvp,controller,mnk)
+//notes: MW=STABILITY     tags:god-pve,god-pvp,controller,mnk
 dimwishlist:item=1411560894&perks=1392496348,1968497646,3017780555,1015611457,4139916815
 
 
@@ -121,6 +121,16 @@ dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,74421
 // Chain of Command - NAUALLI / CHAIN OF COMMAND / GOD PVP (god-pvp,controller)
 //notes: MW=RANGE     tags:god-pvp,controller
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,515704826
+
+
+// Refusal of the Call - LIGHT.GG / REFUSAL OF THE CALL / GOD PVE (god-pve,controller)
+//notes: MW=RELOAD SPEED     tags:god-pve,controller
+dimwishlist:item=3269398063&perks=1263609309,2420895100,923806249,31345821,878237828
+
+
+// Refusal of the Call - NAHUALLI / REFUSAL OF THE CALL / APPRAISAL (god-pve,controller,mnk)
+//notes: MW=RELOAD SPEED     tags:god-pve,controller,mnk
+dimwishlist:item=3269398063&perks=580685494,2420895100,951095735,31345821,878237828
 
 
 // Perfect Pitch - NAUALLI / PERFECT PITCH / GOD PVE (god-pve,controller)
