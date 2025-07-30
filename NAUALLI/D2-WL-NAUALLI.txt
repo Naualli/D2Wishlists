@@ -2,7 +2,7 @@ title:D2-WL-NAUALLI
 description:Naualli's wishlist
 
 // Mint Retrograde - NAHUALLI / MINT RETROGRADE / GOD PVE (god-pve,controller)
-//notes: GOD PVE CTR  |  MASTERWORK: HANDLING  |   tags:god-pve,controller
+//notes: GOD PVE CTR | MW HANDLING   tags:god-pve,controller
 dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3454102905
 dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3846229553
 
