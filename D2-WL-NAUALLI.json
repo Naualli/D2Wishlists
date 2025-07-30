@@ -1,0 +1,183 @@
+{
+    "description": "Naualli's wishlist",
+    "name": "D2-WL-NAUALLI",
+    "data": [
+        {
+            "description": "GOD PVE CTR | MW: HANDLING  ",
+            "hash": 42435996,
+            "name": "NAHUALLI / MINT RETROGRADE / GOD PVE",
+            "plugs": [
+                [
+                    3798852852
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1583705720
+                ],
+                [
+                    3078487919
+                ],
+                [
+                    3454102905,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "GOD PVE CTR  |  MASTERWORK: STABILITY  |  ",
+            "hash": 4184808992,
+            "name": "NAUALLI / ADORED / GOD PVE",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "GOD PVP CTR  |  MASTERWORK: STABILITY  |  ",
+            "hash": 4184808992,
+            "name": "NAUALLI / ADORED / GOD PVP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "GOD PVE CTR  |  MASTERWORK: RANGE  |  ",
+            "hash": 3105930175,
+            "name": "NAUALLI / CHAIN OF COMMAND / GOD PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    11612903
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "GOD PVE CTR  |  MASTERWORK: BLAST RADIUS  |  ",
+            "hash": 616582330,
+            "name": "NAUALLI / CRY MUTINY / GOD PVE",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    332133599
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "GOD PVP CTR  |  MASTERWORK: BLAST RADIUS  |  ",
+            "hash": 616582330,
+            "name": "NAUALLI / CRY MUTINY / GOD PVP",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    332133599
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    4082225868
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "GOD PVP CTR  |  MASTERWORK: RANGE  |  ",
+            "hash": 3105930175,
+            "name": "NAUALLI / CHAIN OF COMMAND / GOD PVP",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    11612903
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        }
+    ]
+}
