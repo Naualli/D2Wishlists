@@ -3,7 +3,7 @@
     "name": "D2-WL-NAUALLI",
     "data": [
         {
-            "description": "MASTERWORK: HANDLING\n",
+            "description": "MASTERWORK: HANDLING  |  ",
             "hash": 42435996,
             "name": "NAHUALLI / MINT RETROGRADE / GOD PVE",
             "plugs": [
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "description": "MASTERWORK: STABILITY",
+            "description": "MASTERWORK: STABILITY  |  ",
             "hash": 4184808992,
             "name": "NAUALLI / ADORED / GOD PVE",
             "plugs": [
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "description": "MASTERWORK: STABILITY",
+            "description": "MASTERWORK: STABILITY  |  ",
             "hash": 4184808992,
             "name": "NAUALLI / ADORED / GOD PVP",
             "plugs": [
@@ -76,7 +76,7 @@
             ]
         },
         {
-            "description": "MASTERWORK: RANGE",
+            "description": "MASTERWORK: RANGE  |  ",
             "hash": 3105930175,
             "name": "NAUALLI / CHAIN OF COMMAND / GOD PVE",
             "plugs": [
@@ -93,9 +93,7 @@
                     3523296417
                 ],
                 [
-                    744217850,
-                    4091460919,
-                    515704826
+                    744217850
                 ]
             ],
             "tags": [
@@ -104,7 +102,7 @@
             ]
         },
         {
-            "description": "MASTERWORK: BLAST RADIUS",
+            "description": "MASTERWORK: BLAST RADIUS  |  ",
             "hash": 616582330,
             "name": "NAUALLI / CRY MUTINY / GOD PVE",
             "plugs": [
@@ -119,6 +117,9 @@
                 ],
                 [
                     1546637391
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
@@ -127,7 +128,7 @@
             ]
         },
         {
-            "description": "MASTERWORK: BLAST RADIUS",
+            "description": "MASTERWORK: BLAST RADIUS  |  ",
             "hash": 616582330,
             "name": "NAUALLI / CRY MUTINY / GOD PVP",
             "plugs": [
@@ -142,6 +143,9 @@
                 ],
                 [
                     4082225868
+                ],
+                [
+                    515704826
                 ]
             ],
             "tags": [
@@ -150,7 +154,7 @@
             ]
         },
         {
-            "description": "MASTERWORK: RANGE",
+            "description": "MASTERWORK: RANGE  |  ",
             "hash": 3105930175,
             "name": "NAUALLI / CHAIN OF COMMAND / GOD PVP",
             "plugs": [
@@ -167,8 +171,6 @@
                     3523296417
                 ],
                 [
-                    744217850,
-                    4091460919,
                     515704826
                 ]
             ],
