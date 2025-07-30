@@ -28,6 +28,16 @@ dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,1546637391
 dimwishlist:item=616582330&perks=1478423395,332133599,3523296417,4082225868
 
 
+// Salvager's Salvo - NAUALLI / SALVAGER'S SALVO / GOD PVE (god-pve,controller)
+//notes: MW=HANDLING     tags:god-pve,controller
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+
+
+// Salvager's Salvo - NAUALLI / SALVAGER'S SALVO / GOD PVP (god-pvp,controller)
+//notes: MW=HANDLING     tags:god-pvp,controller
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
+
+
 // Veles-X - NAUALLI / VELES-X / GOD PVE (god-pve,controller)
 //notes: MW=HANDLING     tags:god-pve,controller
 dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052,1607056502
@@ -38,6 +48,31 @@ dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052,744
 //notes: MW=HANDLING     tags:god-pvp,controller
 dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457,1607056502
 dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457,515704826
+
+
+// Drang - NAUALLI / DRANG / GOD PVEP (god-pve,god-pvp,controller)
+//notes: MW=STABILITY     tags:god-pve,god-pvp,controller
+dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711
+
+
+// Drang - NAUALLI / DRANG / GOD PVE (god-pve,controller)
+//notes: MW=STABILITY     tags:god-pve,controller
+dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711
+
+
+// Drang - NAUALLI / DRANG / GOD PVP (god-pvp,controller)
+//notes: MW=STABILITY     tags:god-pvp,controller
+dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711
+
+
+// Ecliptic Distaff - NAUALLI / ECLIPTIC DISTAFF / GOD PVE (god-pve,controller)
+//notes: MW=SHIELD DURATION     tags:god-pve,controller
+dimwishlist:item=3001205424&perks=1263609309,1431678320,1966281507,2048641572,744217850
+
+
+// Ecliptic Distaff - NAUALLI / ECLIPTIC DISTAFF / GOD PVP (god-pvp,controller)
+//notes: MW=SHIELD DURATION     tags:god-pvp,controller
+dimwishlist:item=3001205424&perks=1263609309,1431678320,3800201097,1782407750,515704826
 
 
 // MIDA Mini-Tool - NAUALLI / MIDA MINI-TOOL / GOD PVE (god-pve,controller)
@@ -58,6 +93,22 @@ dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,74421
 // Chain of Command - NAUALLI / CHAIN OF COMMAND / GOD PVP (god-pvp,controller)
 //notes: MW=RANGE     tags:god-pvp,controller
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,515704826
+
+
+// Perfect Pitch - NAUALLI / PERFECT PITCH / GOD PVE (god-pve,controller)
+//notes: MW=STABILITY     tags:god-pve,controller
+dimwishlist:item=3276304504&perks=1482024992,679225683,1820235745,4293542123,744217850
+dimwishlist:item=3276304504&perks=1482024992,679225683,1820235745,2675184851,744217850
+dimwishlist:item=3276304504&perks=1482024992,679225683,4245865861,4293542123,744217850
+dimwishlist:item=3276304504&perks=1482024992,679225683,4245865861,2675184851,744217850
+
+
+// Perfect Pitch - NAUALLI / PERFECT PITCH / GOD PVP (controller)
+//notes: MW=STABILITY     tags:controller
+dimwishlist:item=3276304504&perks=1482024992,679225683,3938834702,95528736,515704826
+dimwishlist:item=3276304504&perks=1482024992,679225683,3938834702,956288240,515704826
+dimwishlist:item=3276304504&perks=1482024992,679225683,3416609154,95528736,515704826
+dimwishlist:item=3276304504&perks=1482024992,679225683,3416609154,956288240,515704826
 
 
 // Adored - NAUALLI / ADORED / GOD PVE (god-pve,controller)

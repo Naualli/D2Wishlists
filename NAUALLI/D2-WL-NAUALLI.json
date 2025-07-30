@@ -325,6 +325,229 @@
                 "GodPVP",
                 "Controller"
             ]
+        },
+        {
+            "description": "MW=HANDLING    ",
+            "hash": 2060863616,
+            "name": "NAUALLI / SALVAGER'S SALVO / GOD PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=HANDLING    ",
+            "hash": 2060863616,
+            "name": "NAUALLI / SALVAGER'S SALVO / GOD PVP",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=SHIELD DURATION    ",
+            "hash": 3001205424,
+            "name": "NAUALLI / ECLIPTIC DISTAFF / GOD PVE",
+            "plugs": [
+                [
+                    1263609309
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    1966281507
+                ],
+                [
+                    2048641572
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=SHIELD DURATION    ",
+            "hash": 3001205424,
+            "name": "NAUALLI / ECLIPTIC DISTAFF / GOD PVP",
+            "plugs": [
+                [
+                    1263609309
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    3800201097
+                ],
+                [
+                    1782407750
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 3276304504,
+            "name": "NAUALLI / PERFECT PITCH / GOD PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    679225683
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 3276304504,
+            "name": "NAUALLI / PERFECT PITCH / GOD PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    679225683
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    95528736,
+                    956288240
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 2362471600,
+            "name": "NAUALLI / DRANG / GOD PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    588594999
+                ],
+                [
+                    3142289711
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 2362471600,
+            "name": "NAUALLI / DRANG / GOD PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    588594999
+                ],
+                [
+                    3142289711
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 2362471600,
+            "name": "NAUALLI / DRANG / GOD PVEP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    588594999
+                ],
+                [
+                    3142289711
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP",
+                "Controller"
+            ]
         }
     ]
 }
