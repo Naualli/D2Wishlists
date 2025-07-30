@@ -25,8 +25,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -48,8 +47,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -71,8 +69,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -97,8 +94,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -117,11 +113,13 @@
                 ],
                 [
                     1546637391
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -140,11 +138,13 @@
                 ],
                 [
                     4082225868
+                ],
+                [
+                    515704826
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -169,8 +169,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -191,12 +190,12 @@
                     2896038713
                 ],
                 [
+                    2437618208,
                     744217850
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -222,8 +221,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -245,8 +243,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -268,8 +265,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -295,8 +291,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -322,8 +317,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -345,8 +339,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -368,8 +361,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -394,8 +386,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -420,8 +411,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -448,8 +438,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -475,9 +464,7 @@
                     515704826
                 ]
             ],
-            "tags": [
-                "Controller"
-            ]
+            "tags": []
         },
         {
             "description": "MW=STABILITY    ",
@@ -498,8 +485,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -521,8 +507,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -545,8 +530,7 @@
             ],
             "tags": [
                 "GodPVE",
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -571,8 +555,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -597,10 +580,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "GodPVP",
-                "Controller",
-                "Mouse"
+                "GodPVE"
             ]
         },
         {
@@ -653,10 +633,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "GodPVP",
-                "Controller",
-                "Mouse"
+                "GodPVE"
             ]
         },
         {
@@ -682,10 +659,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "GodPVP",
-                "Controller",
-                "Mouse"
+                "GodPVE"
             ]
         },
         {
@@ -710,8 +684,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -736,9 +709,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller",
-                "Mouse"
+                "GodPVE"
             ]
         },
         {
@@ -763,8 +734,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -789,8 +759,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "Controller"
+                "GodPVP"
             ]
         },
         {
@@ -815,8 +784,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -841,8 +809,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -864,8 +831,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -887,8 +853,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -910,8 +875,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -936,8 +900,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -962,8 +925,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -988,8 +950,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -1001,7 +962,7 @@
                     3661387068
                 ],
                 [
-                    3177308360
+                    106909392
                 ],
                 [
                     3713215006
@@ -1014,8 +975,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -1040,8 +1000,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -1066,8 +1025,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -1092,8 +1050,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -1118,8 +1075,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -1144,8 +1100,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -1170,8 +1125,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         },
         {
@@ -1225,8 +1179,63 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW=RELOAD SPEED    ",
+            "hash": 2671849376,
+            "name": "LIGHT.GG / REFUSAL OF THE CALL / COMMON",
+            "plugs": [
+                [
+                    1263609309,
+                    2154730217
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    923806249,
+                    3422796781
+                ],
+                [
+                    31345821,
+                    639190697
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW=RELOAD SPEED    ",
+            "hash": 2671849376,
+            "name": "NAHUALLI / REFUSAL OF THE CALL / APPRAISAL",
+            "plugs": [
+                [
+                    580685494,
+                    2719770986
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]
