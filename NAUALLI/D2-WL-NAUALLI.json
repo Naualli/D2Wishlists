@@ -601,6 +601,89 @@
                 "GodPVP",
                 "Controller"
             ]
+        },
+        {
+            "description": "MW=DRAW TIME    ",
+            "hash": 471764396,
+            "name": "LIGHT.GG / PRE ASTYANAX IV / GOD PVE",
+            "plugs": [
+                [
+                    3768438372
+                ],
+                [
+                    2154191829
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    2890807135
+                ],
+                [
+                    3454102905,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=DRAW TIME    ",
+            "hash": 471764396,
+            "name": "NAUALLI / PRE ASTYANAX IV / APPRAISE",
+            "plugs": [
+                [
+                    4067834857
+                ],
+                [
+                    3311977193
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    2890807135
+                ],
+                [
+                    3454102905,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=RELOAD SPEED    ",
+            "hash": 471764396,
+            "name": "NAUALLI / PRE ASTYANAX IV / APPRAISE",
+            "plugs": [
+                [
+                    3768438372
+                ],
+                [
+                    16392701
+                ],
+                [
+                    3824105627
+                ],
+                [
+                    1089671869
+                ],
+                [
+                    3454102905,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP",
+                "Controller"
+            ]
         }
     ]
 }

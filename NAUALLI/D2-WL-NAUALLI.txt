@@ -7,6 +7,24 @@ dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3454
 dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3846229553
 
 
+// Pre Astyanax IV - NAUALLI / PRE ASTYANAX IV / APPRAISE (god-pve,god-pvp,controller)
+//notes: MW=DRAW TIME     tags:god-pve,god-pvp,controller
+dimwishlist:item=471764396&perks=4067834857,3311977193,4293542123,2890807135,3454102905
+dimwishlist:item=471764396&perks=4067834857,3311977193,4293542123,2890807135,3846229553
+
+
+// Pre Astyanax IV - NAUALLI / PRE ASTYANAX IV / APPRAISE (god-pve,god-pvp,controller)
+//notes: MW=RELOAD SPEED     tags:god-pve,god-pvp,controller
+dimwishlist:item=471764396&perks=3768438372,16392701,3824105627,1089671869,3454102905
+dimwishlist:item=471764396&perks=3768438372,16392701,3824105627,1089671869,3846229553
+
+
+// Pre Astyanax IV - LIGHT.GG / PRE ASTYANAX IV / GOD PVE (god-pve,controller)
+//notes: MW=DRAW TIME     tags:god-pve,controller
+dimwishlist:item=471764396&perks=3768438372,2154191829,4293542123,2890807135,3454102905
+dimwishlist:item=471764396&perks=3768438372,2154191829,4293542123,2890807135,3846229553
+
+
 // Last Rite - NAUALLI / LAST RITE / GOD PVE (god-pve,controller)
 //notes: MW=HANDLING     tags:god-pve,controller
 dimwishlist:item=542573208&perks=202670084,1885400500,1523832109,2896038713,744217850
