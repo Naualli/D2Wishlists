@@ -548,6 +548,59 @@
                 "GodPVP",
                 "Controller"
             ]
+        },
+        {
+            "description": "MW=RANGE/STABILITY    ",
+            "hash": 1411560894,
+            "name": "LIGHT.GG / AHAB CHAR / GOD PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3017780555
+                ],
+                [
+                    2890807135
+                ],
+                [
+                    4139916815
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 1411560894,
+            "name": "NAUALLI / AHAB CHAR / APPRAISE",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    1968497646
+                ],
+                [
+                    3017780555
+                ],
+                [
+                    1015611457
+                ],
+                [
+                    4139916815
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP",
+                "Controller"
+            ]
         }
     ]
 }
