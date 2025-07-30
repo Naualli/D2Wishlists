@@ -3,7 +3,7 @@
     "name": "D2-WL-NAUALLI",
     "data": [
         {
-            "description": "GOD PVE CTR | MW HANDLING  ",
+            "description": "MW=HANDLING    ",
             "hash": 42435996,
             "name": "NAHUALLI / MINT RETROGRADE / GOD PVE",
             "plugs": [
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "description": "GOD PVE CTR  |  MASTERWORK: STABILITY  |  ",
+            "description": "MW=STABILITY    ",
             "hash": 4184808992,
             "name": "NAUALLI / ADORED / GOD PVE",
             "plugs": [
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "description": "GOD PVP CTR  |  MASTERWORK: STABILITY  |  ",
+            "description": "MW=STABILITY    ",
             "hash": 4184808992,
             "name": "NAUALLI / ADORED / GOD PVP",
             "plugs": [
@@ -76,7 +76,7 @@
             ]
         },
         {
-            "description": "GOD PVE CTR  |  MASTERWORK: RANGE  |  ",
+            "description": "MW=RANGE    ",
             "hash": 3105930175,
             "name": "NAUALLI / CHAIN OF COMMAND / GOD PVE",
             "plugs": [
@@ -102,7 +102,7 @@
             ]
         },
         {
-            "description": "GOD PVE CTR  |  MASTERWORK: BLAST RADIUS  |  ",
+            "description": "MW=BLAST RADIUS    ",
             "hash": 616582330,
             "name": "NAUALLI / CRY MUTINY / GOD PVE",
             "plugs": [
@@ -117,9 +117,6 @@
                 ],
                 [
                     1546637391
-                ],
-                [
-                    744217850
                 ]
             ],
             "tags": [
@@ -128,7 +125,7 @@
             ]
         },
         {
-            "description": "GOD PVP CTR  |  MASTERWORK: BLAST RADIUS  |  ",
+            "description": "MW=BLAST RADIUS    ",
             "hash": 616582330,
             "name": "NAUALLI / CRY MUTINY / GOD PVP",
             "plugs": [
@@ -143,9 +140,6 @@
                 ],
                 [
                     4082225868
-                ],
-                [
-                    515704826
                 ]
             ],
             "tags": [
@@ -154,7 +148,7 @@
             ]
         },
         {
-            "description": "GOD PVP CTR  |  MASTERWORK: RANGE  |  ",
+            "description": "MW=RANGE    ",
             "hash": 3105930175,
             "name": "NAUALLI / CHAIN OF COMMAND / GOD PVP",
             "plugs": [
@@ -171,6 +165,159 @@
                     3523296417
                 ],
                 [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=HANDLING    ",
+            "hash": 542573208,
+            "name": "NAUALLI / LAST RITE / GOD PVE",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    2896038713
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=HANDLING    ",
+            "hash": 542573208,
+            "name": "NAUALLI / LAST RITE / GOD PVP",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    47981717
+                ],
+                [
+                    2437618208,
+                    515704826
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 3089417788,
+            "name": "NAUALLI / MIDA MINI-TOOL / GOD PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    1866048759
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 3089417788,
+            "name": "NAUALLI / MIDA MINI-TOOL / GOD PVP",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    1866048759
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=HANDLING    ",
+            "hash": 2276328320,
+            "name": "NAUALLI / VELES-X / GOD PVE",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2610012052
+                ],
+                [
+                    1607056502,
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "MW=HANDLING    ",
+            "hash": 2276328320,
+            "name": "NAUALLI / VELES-X / GOD PVP",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    2946784966
+                ],
+                [
+                    1015611457
+                ],
+                [
+                    1607056502,
                     515704826
                 ]
             ],

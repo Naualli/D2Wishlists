@@ -2,38 +2,71 @@ title:D2-WL-NAUALLI
 description:Naualli's wishlist
 
 // Mint Retrograde - NAHUALLI / MINT RETROGRADE / GOD PVE (god-pve,controller)
-//notes: GOD PVE CTR / MW HANDLING   tags:god-pve,controller
+//notes: MW=HANDLING     tags:god-pve,controller
 dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3454102905
 dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3846229553
 
 
+// Last Rite - NAUALLI / LAST RITE / GOD PVE (god-pve,controller)
+//notes: MW=HANDLING     tags:god-pve,controller
+dimwishlist:item=542573208&perks=202670084,1885400500,1523832109,2896038713,744217850
+
+
+// Last Rite - NAUALLI / LAST RITE / GOD PVP (god-pvp,controller)
+//notes: MW=HANDLING     tags:god-pvp,controller
+dimwishlist:item=542573208&perks=202670084,1885400500,3619207468,47981717,2437618208
+dimwishlist:item=542573208&perks=202670084,1885400500,3619207468,47981717,515704826
+
+
 // Cry Mutiny - NAUALLI / CRY MUTINY / GOD PVE (god-pve,controller)
-//notes: GOD PVE CTR / MW BLAST RADIUS   tags:god-pve,controller
-dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,1546637391,744217850
+//notes: MW=BLAST RADIUS     tags:god-pve,controller
+dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,1546637391
 
 
 // Cry Mutiny - NAUALLI / CRY MUTINY / GOD PVP (god-pvp,controller)
-//notes: GOD PVP CTR / MW BLAST RADIUS   tags:god-pvp,controller
-dimwishlist:item=616582330&perks=1478423395,332133599,3523296417,4082225868,515704826
+//notes: MW=BLAST RADIUS     tags:god-pvp,controller
+dimwishlist:item=616582330&perks=1478423395,332133599,3523296417,4082225868
+
+
+// Veles-X - NAUALLI / VELES-X / GOD PVE (god-pve,controller)
+//notes: MW=HANDLING     tags:god-pve,controller
+dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052,1607056502
+dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052,744217850
+
+
+// Veles-X - NAUALLI / VELES-X / GOD PVP (god-pvp,controller)
+//notes: MW=HANDLING     tags:god-pvp,controller
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457,1607056502
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457,515704826
+
+
+// MIDA Mini-Tool - NAUALLI / MIDA MINI-TOOL / GOD PVE (god-pve,controller)
+//notes: MW=STABILITY     tags:god-pve,controller
+dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
+
+
+// MIDA Mini-Tool - NAUALLI / MIDA MINI-TOOL / GOD PVP (god-pvp,controller)
+//notes: MW=STABILITY     tags:god-pvp,controller
+dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
 
 
 // Chain of Command - NAUALLI / CHAIN OF COMMAND / GOD PVE (god-pve,controller)
-//notes: GOD PVE CTR / MW RANGE   tags:god-pve,controller
+//notes: MW=RANGE     tags:god-pve,controller
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,744217850
 
 
 // Chain of Command - NAUALLI / CHAIN OF COMMAND / GOD PVP (god-pvp,controller)
-//notes: GOD PVP CTR / MW RANGE   tags:god-pvp,controller
+//notes: MW=RANGE     tags:god-pvp,controller
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,515704826
 
 
 // Adored - NAUALLI / ADORED / GOD PVE (god-pve,controller)
-//notes: GOD PVE CTR / MW STABILITY   tags:god-pve,controller
+//notes: MW=STABILITY     tags:god-pve,controller
 dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
 
 
 // Adored - NAUALLI / ADORED / GOD PVP (god-pvp,controller)
-//notes: GOD PVP CTR / MW STABILITY   tags:god-pvp,controller
+//notes: MW=STABILITY     tags:god-pvp,controller
 dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
 
 
