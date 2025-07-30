@@ -1187,6 +1187,98 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 2434225986,
+            "name": "NAUALLI / SHATTERED CIPHER / GOD PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 1757177186,
+            "name": "NAUALLI / WATCHFUL EYE / GOD PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    3966416502
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 47772649,
+            "name": "NAUALLI / THE SWARM / GOD PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711,
+                    1087426260
+                ],
+                [
+                    4252909580
+                ],
+                [
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW=STABILITY    ",
+            "hash": 1967303408,
+            "name": "NAUALLI / ARCHON'S THUNDER / GOD PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
