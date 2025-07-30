@@ -2,38 +2,38 @@ title:D2-WL-NAUALLI
 description:Naualli's wishlist
 
 // Mint Retrograde - NAHUALLI / MINT RETROGRADE / GOD PVE (god-pve,controller)
-//notes: MASTERWORK: HANDLING  |   tags:god-pve,controller
+//notes: GOD PVE CTR  |  MASTERWORK: HANDLING  |   tags:god-pve,controller
 dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3454102905
 dimwishlist:item=42435996&perks=3798852852,3230963543,1583705720,3078487919,3846229553
 
 
 // Cry Mutiny - NAUALLI / CRY MUTINY / GOD PVE (god-pve,controller)
-//notes: MASTERWORK: BLAST RADIUS  |   tags:god-pve,controller
+//notes: GOD PVE CTR  |  MASTERWORK: BLAST RADIUS  |   tags:god-pve,controller
 dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,1546637391,744217850
 
 
 // Cry Mutiny - NAUALLI / CRY MUTINY / GOD PVP (god-pvp,controller)
-//notes: MASTERWORK: BLAST RADIUS  |   tags:god-pvp,controller
+//notes: GOD PVP CTR  |  MASTERWORK: BLAST RADIUS  |   tags:god-pvp,controller
 dimwishlist:item=616582330&perks=1478423395,332133599,3523296417,4082225868,515704826
 
 
 // Chain of Command - NAUALLI / CHAIN OF COMMAND / GOD PVE (god-pve,controller)
-//notes: MASTERWORK: RANGE  |   tags:god-pve,controller
+//notes: GOD PVE CTR  |  MASTERWORK: RANGE  |   tags:god-pve,controller
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,744217850
 
 
 // Chain of Command - NAUALLI / CHAIN OF COMMAND / GOD PVP (god-pvp,controller)
-//notes: MASTERWORK: RANGE  |   tags:god-pvp,controller
+//notes: GOD PVP CTR  |  MASTERWORK: RANGE  |   tags:god-pvp,controller
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,515704826
 
 
 // Adored - NAUALLI / ADORED / GOD PVE (god-pve,controller)
-//notes: MASTERWORK: STABILITY  |   tags:god-pve,controller
+//notes: GOD PVE CTR  |  MASTERWORK: STABILITY  |   tags:god-pve,controller
 dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
 
 
 // Adored - NAUALLI / ADORED / GOD PVP (god-pvp,controller)
-//notes: MASTERWORK: STABILITY  |   tags:god-pvp,controller
+//notes: GOD PVP CTR  |  MASTERWORK: STABILITY  |   tags:god-pvp,controller
 dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
 
 
