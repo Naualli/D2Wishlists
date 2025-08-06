@@ -1,5 +1,5 @@
 {
-    "description": "D2-WL-NAUALLI\nD2-WL-PANDAPAXXY-CTR\nD2-WL-EXOTICS",
+    "description": "D2-WL-NAUALLI + D2-WL-PANDAPAXXY-CTR + D2-WL-EXOTICS",
     "name": "D2-WL-BUNDLE",
     "data": [
         {
@@ -97862,33 +97862,6 @@
         },
         {
             "description": "",
-            "hash": 400096939,
-            "name": "",
-            "plugs": [],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3824673936,
-            "name": "",
-            "plugs": [],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1331482397,
-            "name": "",
-            "plugs": [],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
             "hash": 3856705927,
             "name": "",
             "plugs": [],
@@ -98095,25 +98068,6 @@
             "plugs": [],
             "tags": [
                 "GodPVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2907129557,
-            "name": "",
-            "plugs": [],
-            "tags": [
-                "GodPVE",
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1912669214,
-            "name": "",
-            "plugs": [],
-            "tags": [
-                "GodPVP"
             ]
         },
         {
@@ -98459,6 +98413,95 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1331482397,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    3100590152
+                ],
+                [
+                    990298390
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 400096939,
+            "name": "",
+            "plugs": [
+                [
+                    1467527085
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    3242533954
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2907129557,
+            "name": "",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4115637021
+                ],
+                [
+                    3917450714
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1912669214,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    2804762401
+                ],
+                [
+                    990298390
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ]
         }
     ]
