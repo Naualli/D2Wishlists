@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "D2-WL-NAUALLI\nD2-WL-PANDAPAXXY-CTR\nD2-WL-EXOTICS",
     "name": "D2-WL-BUNDLE",
     "data": [
         {
@@ -98236,15 +98236,6 @@
         },
         {
             "description": "",
-            "hash": 427899681,
-            "name": "",
-            "plugs": [],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
             "hash": 2973900274,
             "name": "",
             "plugs": [],
@@ -98418,9 +98409,31 @@
         },
         {
             "description": "",
-            "hash": 3325463374,
+            "hash": 3766045777,
             "name": "",
             "plugs": [],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3325463374,
+            "name": "",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    1968497646
+                ],
+                [
+                    1419069769
+                ],
+                [
+                    2779035018
+                ]
+            ],
             "tags": [
                 "GodPVE",
                 "GodPVP"
@@ -98428,11 +98441,24 @@
         },
         {
             "description": "",
-            "hash": 3766045777,
+            "hash": 427899681,
             "name": "",
-            "plugs": [],
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    1833111001
+                ],
+                [
+                    4259401308
+                ]
+            ],
             "tags": [
-                "GodPVP"
+                "GodPVE"
             ]
         }
     ]
