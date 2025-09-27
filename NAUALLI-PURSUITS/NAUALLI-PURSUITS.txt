@@ -1,4 +1,4 @@
-title:NAUALLI PURSUITS
+title:NAUALLI-PURSUITS
 
 // Mint Retrograde - GOD PVE (god-pve)
 //notes: GodPvE-MW=BLAST>VELOCITY>RELOAD>HANDLING>STABILITY tags:god-pve
